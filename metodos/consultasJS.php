@@ -97,10 +97,7 @@ switch ($accion) {
 			echo json_encode($ejecuta);
 
 		}
-
-
 		break;
-
 		default:
 		echo 0;
 		break;
